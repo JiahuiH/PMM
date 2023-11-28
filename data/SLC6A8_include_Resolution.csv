@@ -1,0 +1,11 @@
+SLC_name,transcript_id,OriginalAA,MutanAA,Position,Pathogenicity
+SLC6A8,,K,R,4,0
+SLC6A8,,G,R,26,1
+SLC6A8,,Q,H,114,1
+SLC6A8,,R,W,207,1
+SLC6A8,,G,R,466,1
+SLC6A8,,R,C,502,0
+SLC6A8,,D,N,506,0
+SLC6A8,,V,I,539,0
+SLC6A8,,T,S,550,0
+SLC6A8,,M,V,560,0
